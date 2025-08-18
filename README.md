@@ -60,6 +60,14 @@
 
 ###
 
+<p align="center"></p>
+
+###
+
+<p align="center"></p>
+
+###
+
 <h2 align="center">2️⃣ Open / Close Principle <br>(OCP).</h2>
 
 ###
@@ -81,6 +89,14 @@
 ###
 
 <h2 align="left">Software entities should be open for extension but closed for modification.</h2>
+
+###
+
+<p align="right"></p>
+
+###
+
+<p align="right"></p>
 
 ###
 
@@ -140,6 +156,14 @@
 
 ###
 
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
 <h2 align="center">4️⃣ Interface Segregation Principle <br>(ISP)</h2>
 
 ###
@@ -153,6 +177,14 @@
 ###
 
 <img align="left" height="330" src="https://i.postimg.cc/kXt1Jvb7/Example-About-ISP-1.png"  />
+
+###
+
+<p align="left"></p>
+
+###
+
+<p align="left"></p>
 
 ###
 
