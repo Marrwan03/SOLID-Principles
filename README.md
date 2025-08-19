@@ -196,7 +196,11 @@
 
 ###
 
-<h6 align="left"></h6>
+<h6 align="left">.</h6>
+
+###
+
+<h6 align="right">.</h6>
 
 ###
 
