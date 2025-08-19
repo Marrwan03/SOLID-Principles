@@ -36,7 +36,19 @@
 
 ###
 
-<h2 align="left">A class should have only one reason to change, meaning it should have one responsibility.</h2>
+<p align="center"></p>
+
+###
+
+<p align="center"></p>
+
+###
+
+<p align="center"></p>
+
+###
+
+<p align="left">A class should have only one reason to change, meaning it should have one responsibility.</p>
 
 ###
 
@@ -60,7 +72,7 @@
 
 ###
 
-<p align="center"></p>
+<h1 align="center"></h1>
 
 ###
 
@@ -88,7 +100,7 @@
 
 ###
 
-<h2 align="left">Software entities should be open for extension but closed for modification.</h2>
+<p align="left">Software entities should be open for extension but closed for modification.</p>
 
 ###
 
@@ -109,6 +121,14 @@
 ###
 
 <p align="right"></p>
+
+###
+
+<p align="right"></p>
+
+###
+
+<h1 align="right"></h1>
 
 ###
 
@@ -136,7 +156,7 @@
 
 ###
 
-<h2 align="left">Objects of a superclass should be replaceable with objects of a subclass without affecting program correctness.</h2>
+<p align="left">Objects of a superclass should be replaceable with objects of a subclass without affecting program correctness.</p>
 
 ###
 
@@ -157,6 +177,14 @@
 ###
 
 <p align="left"></p>
+
+###
+
+<p align="left"></p>
+
+###
+
+<h1 align="left"></h1>
 
 ###
 
@@ -168,7 +196,11 @@
 
 ###
 
-<h2 align="left">Clients should not be forced to depend on interfaces they do not use.</h2>
+<p align="left">Clients should not be forced to depend on interfaces they do not use.</p>
+
+###
+
+<p align="left"></p>
 
 ###
 
@@ -228,6 +260,10 @@
 
 ###
 
+<h1 align="left"></h1>
+
+###
+
 <p align="left"></p>
 
 ###
@@ -236,13 +272,17 @@
 
 ###
 
-<h2 align="left">High-level modules should not depend on low-level modules; both should depend on abstractions.</h2>
+<p align="left">High-level modules should not depend on low-level modules; both should depend on abstractions.</p>
 
 ###
 
 <div align="center">
   <img height="325" src="https://i.postimg.cc/rw5twKjd/Example-About-DIP.png"  />
 </div>
+
+###
+
+<p align="left"></p>
 
 ###
 
